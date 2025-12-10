@@ -1,0 +1,11 @@
+aiohttp
+requests
+pyrogram
+pyfiglet
+Pillow
+qrcode
+deep-translator
+psutil
+speedtest-cli
+tgcrypto
+flask
